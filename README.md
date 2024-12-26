@@ -15,7 +15,7 @@ ConvoApp is a full stack (dynamic and responsive) web application that allows us
 ## Author
 
 -   Abrar Kivande - follow me on 👇
--   [GitHub](https://github.com/AbrarKivande/ConvoApp.git)
+-   [GitHub](https://github.com/AbrarKivande/ConvoApp-abrar)
 -   [LinkedIn](https://www.linkedin.com/in/abrarkivande/)
 
 
@@ -25,5 +25,5 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/AbrarKivande/ConvoApp.git
+  git clone https://github.com/AbrarKivande/ConvoApp-abrar
 ```
